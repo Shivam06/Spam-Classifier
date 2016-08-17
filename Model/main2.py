@@ -19,7 +19,7 @@ from gaussianKernel import gaussianKernel
 from visualizeBoundary import visualizeBoundary
 from dataset3Params import dataset3Params
 
-
+ 
 df = pd.read_csv('spamData2.txt')
 X = np.array(df.iloc[:,0:17323].values)
 y = np.array(df.iloc[:,[17323]].values)
