@@ -13,4 +13,4 @@ def getVocabList2():
     str = f.read()
     vocab_list = str.split(' ')
     f.close()
-    return vocab_list
+    return vocab_list 
