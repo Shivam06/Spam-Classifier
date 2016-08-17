@@ -12,7 +12,7 @@ def storeTxt(X,y,name):
             outstr += str(X[i,j]) + ','
         outstr += str(y[i,0]) + '\n'
         file.write(outstr)
-    
+     
     file.close()
     
     
