@@ -1,6 +1,6 @@
 # Spam-Classifier
 
-Trained ML model to predict whether a mail is Spam or Ham.
+Trained ML model to predict whether a mail is Spam or Ham as an extension over ML class, Cousera homework.
 
 <ul>
 <li><b>processEmail.py</b> - Module containing function to process the indivisual mail and convert them into feature vectors after removing redundant stuffs.</li>
