@@ -4,7 +4,7 @@ from sklearn.metrics import accuracy_score
 
 def ParametersLinsvm(Xtrain,ytrain,Xval,yval):
     
-    cvalue = [0.1,1,10]
+    cvalue = [0.01,0.03,0.1,0.3,1,3,10]
     max = 0    
     scores = []
     for c in cvalue:
