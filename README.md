@@ -1,3 +1,5 @@
+Worked on my first ML project. Applied Support Vector Machines on spam classification problem.
+
 # Spam-Classifier
 
 Trained ML model to predict whether a mail is Spam or Ham as an extension over ML class, Coursera homework.
